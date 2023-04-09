@@ -79,6 +79,3 @@ message = client.messages \
         from_='<PUT TWILIO NUMBER HERE>',
         to='<PUT YOUR NUMBER HERE>'
         )
-
-
-
